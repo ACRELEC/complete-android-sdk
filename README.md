@@ -11,7 +11,6 @@ repositories {
 }
 
 dependencies {
-    compile 'com.acrelec:complete-sdk:1.0.1'
+    compile 'com.acrelec:complete:1.0.1'
 }
 ```
-
