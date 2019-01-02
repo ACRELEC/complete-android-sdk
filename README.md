@@ -11,6 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.acrelec:complete:1.2.1'
+    implementation 'com.acrelec:complete:1.2.2'
 }
 ```
